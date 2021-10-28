@@ -1,5 +1,5 @@
 
-##[Best Practices for CKA Exam](https://medium.com/@emreodabas_20110?source=post_page-----9c1e51ea9b29--------------------------------)
+[Best Practices for CKA Exam](https://medium.com/@emreodabas_20110?source=post_page-----9c1e51ea9b29--------------------------------)
 
 Some of the best tricks while CKA exam
 

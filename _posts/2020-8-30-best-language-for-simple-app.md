@@ -1,4 +1,4 @@
-##[Best Language for the “Simple App”]("https://medium.com/@emreodabas_20110?source=post_page-----979729d3e48d--------------------------------")
+[Best Language for the “Simple App”]("https://medium.com/@emreodabas_20110?source=post_page-----979729d3e48d--------------------------------")
 
 _Aug 30, 2020·4 min read_
 

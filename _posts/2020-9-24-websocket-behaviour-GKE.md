@@ -1,5 +1,5 @@
 
-##[Web Socket Behavior on GKE](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
+[Web Socket Behavior on GKE](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
 
 How to handle graceful connection on GKE ?
 
