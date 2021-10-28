@@ -30,4 +30,4 @@ Other: Kong API Gateway, Oracle API Gateway, Oracle Service Bus, OPA (Oracle BRE
 
 ### Contact me
 
-[emreodabas@gmail.com](mailto:email@domain.com)
+[emreodabasatgmaildotcom](mailto:emreodabas@gmail.com)
