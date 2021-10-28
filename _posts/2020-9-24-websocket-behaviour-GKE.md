@@ -3,9 +3,7 @@ layout: post
 title: Web Socket Behavior on GKE
 ---
 
-How to handle graceful connection on GKE ?
 _Sep 24, 2020·2 min read_ [![image alt text](../images/Medium-Symbol-Black-CMYK@1x.png)](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
-
 
 
 In our project, We (with [Tümay Çeber](https://medium.com/u/11eadbe145ba?source=post_page-----7d9a22ef9b13--------------------------------) ) intend to investigate web socket behavior working on Kubernetes (GKE) while pods terminating. The graceful shutdown ability of pods needs to be evaluated for WebSocket management. We desire to increase the stability of application and user experience.
