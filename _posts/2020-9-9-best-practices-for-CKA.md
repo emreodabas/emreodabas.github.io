@@ -1,14 +1,17 @@
-___
-layout: post
-title: [Best Practices for CKA Exam](https://medium.com/@emreodabas_20110?source=post_page-----9c1e51ea9b29--------------------------------)
 ---
+layout: post
+title: Best Practices for CKA Exam
+---
+
 Some of the best tricks while CKA exam
 _Sep 9, 2020·3 min read_
 
 
+[Best Practices for CKA Exam](https://medium.com/@emreodabas_20110?source=post_page-----9c1e51ea9b29--------------------------------)
+
 As a classic of CKA stories, let’s start with my certificate with a score 97
 
-![](https://miro.medium.com/max/1400/0*HmafJ7M3E0eOiwWG)
+![alt text](../images/cka_1.jpeg "CKAScore")
 
 And Let’s jump into the subject. As may know, CKA is a practical exam and you need to have high kubectl skills. This experience directly affects your time management and stress level on the exam. So, let’s talk about practices.
 
@@ -37,11 +40,12 @@ For example, you could write a YAML file and create a deployment with _kubectl a
 
 You could use _help_ command very effectively for imperative commands. Kubectl help gives available parameters and commands examples that very helpful to copy and paste.
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/1\*V29EqveIVe9D6ocHJhru-A.png" width="700" height="587" srcSet="https://miro.medium.com/max/552/1\*V29EqveIVe9D6ocHJhru-A.png 276w, https://miro.medium.com/max/1104/1\*V29EqveIVe9D6ocHJhru-A.png 552w, https://miro.medium.com/max/1280/1\*V29EqveIVe9D6ocHJhru-A.png 640w, https://miro.medium.com/max/1400/1\*V29EqveIVe9D6ocHJhru-A.png 700w" sizes="700px" role="presentation"/>
+![alt text](../images/cka_2.png "Imperatives")
+
 
 As you could see above, there are so many resources that could be created by this imperative command. Most of the RBAC questions could be concluded successfully without a written YAML file.
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/1\*ixRI3-ZdGozCxWR5kB\_30Q.png" width="700" height="150" srcSet="https://miro.medium.com/max/552/1\*ixRI3-ZdGozCxWR5kB\_30Q.png 276w, https://miro.medium.com/max/1104/1\*ixRI3-ZdGozCxWR5kB\_30Q.png 552w, https://miro.medium.com/max/1280/1\*ixRI3-ZdGozCxWR5kB\_30Q.png 640w, https://miro.medium.com/max/1400/1\*ixRI3-ZdGozCxWR5kB\_30Q.png 700w" sizes="700px" role="presentation"/>
+![alt text](../images/cka_3.png "Create Rollback")
 
 Besides the _“create”_ command, you need to learn _“run”_ command details that is exactly the best way for running new pods. Also, “_label, expose, scale,_ and _taint” commands are very_ time-efficient solutions.
 

@@ -1,10 +1,12 @@
-___
+---
 layout: post 
-title: [Best Language for the “Simple App”]("https://medium.com/@emreodabas_20110?source=post_page-----979729d3e48d--------------------------------")
+title: Best Language for the "Simple App"
 ---
 
 _Aug 30, 2020·4 min read_
 
+
+[Best Language for the “Simple App”]("https://medium.com/@emreodabas_20110?source=post_page-----979729d3e48d--------------------------------")
 
 if you are a tech people for a while, most probably you found yourself trying to answer such questions; I’ll just write a Simple App and
 
