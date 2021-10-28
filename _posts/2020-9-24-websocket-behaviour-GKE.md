@@ -1,18 +1,14 @@
 ---
 
 layout: post
-title: You're up and running!
+title: Web Socket Behavior on GKE
 order: 1
 ---
 
-Web Socket Behavior on GKE
-==========================
 
-[![Emre Odabas](https://miro.medium.com/fit/c/56/56/0*0soFcQXWNTTComIj.jpg)](https://medium.com/@emreodabas_20110?source=post_page-----7d9a22ef9b13--------------------------------)[
+<img src="https://miro.medium.com/fit/c/56/56/0*0soFcQXWNTTComIj.jpg"/>
 
 Emre Odabas
-
-](https://medium.com/@emreodabas_20110?source=post_page-----7d9a22ef9b13--------------------------------)[
 
 Sep 24, 2020·2 min read
 
