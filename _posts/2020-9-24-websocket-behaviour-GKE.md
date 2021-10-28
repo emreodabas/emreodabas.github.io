@@ -4,8 +4,7 @@ title: Web Socket Behavior on GKE
 ---
 
 How to handle graceful connection on GKE ?
-_Sep 24, 2020·2 min read_
-[medium](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
+_Sep 24, 2020·2 min read_ [![image alt text](../images/Medium-Symbol-Black-CMYK@1x.png)](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
 
 
 
