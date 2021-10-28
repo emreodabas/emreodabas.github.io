@@ -1,18 +1,16 @@
 ---
 
 layout: post
-title: Web Socket Behavior on GKE
-order: 1
+title: [Web Socket Behavior on GKE](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
+order: 2
 ---
 
+How to handle graceful connection on GKE ?
 
-<img src="https://miro.medium.com/fit/c/56/56/0*0soFcQXWNTTComIj.jpg"/>
+_Sep 24, 2020·2 min read_
 
-Emre Odabas
 
-Sep 24, 2020·2 min read
 
-](https://medium.com/@emreodabas_20110/web-socket-behavior-on-gke-7d9a22ef9b13?source=post_page-----7d9a22ef9b13--------------------------------)
 
 In our project, We (with [Tümay Çeber](https://medium.com/u/11eadbe145ba?source=post_page-----7d9a22ef9b13--------------------------------) ) intend to investigate web socket behavior working on Kubernetes (GKE) while pods terminating. The graceful shutdown ability of pods needs to be evaluated for WebSocket management. We desire to increase the stability of application and user experience.
 
@@ -30,7 +28,7 @@ We developed a server application for handling WebSocket connections. This app r
 
 After that, we [dockerized](https://hub.docker.com/repository/docker/emreodabas/ws-test) our application and push the image to Docker Hub. We [deployed](https://github.com/emreodabas/websocket-graceful/blob/master/ws-test.yaml) our application to Kubernetes which working like the below design. Also, a chrome extension [WebSocket client tool](https://chrome.google.com/webstore/detail/websocket-test-client/fgponpodhbmadfljofbimhhlengambbn) was selected for the connection test.
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/1\*VbDUNzQZugIBim7nx74qag.png" width="700" height="308" srcSet="https://miro.medium.com/max/552/1\*VbDUNzQZugIBim7nx74qag.png 276w, https://miro.medium.com/max/1104/1\*VbDUNzQZugIBim7nx74qag.png 552w, https://miro.medium.com/max/1280/1\*VbDUNzQZugIBim7nx74qag.png 640w, https://miro.medium.com/max/1400/1\*VbDUNzQZugIBim7nx74qag.png 700w" sizes="700px" role="presentation"/>
+![alt text](../images/socket_1.png "GKE Diagram")
 
 Test Scenarios
 ==============
