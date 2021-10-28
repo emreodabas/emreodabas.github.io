@@ -1,11 +1,10 @@
-
-[Best Practices for CKA Exam](https://medium.com/@emreodabas_20110?source=post_page-----9c1e51ea9b29--------------------------------)
-
+___
+layout: post
+title: [Best Practices for CKA Exam](https://medium.com/@emreodabas_20110?source=post_page-----9c1e51ea9b29--------------------------------)
+---
 Some of the best tricks while CKA exam
-
 _Sep 9, 2020·3 min read_
 
----
 
 As a classic of CKA stories, let’s start with my certificate with a score 97
 
