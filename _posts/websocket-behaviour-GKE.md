@@ -1,3 +1,10 @@
+---
+
+layout: post
+title: You're up and running!
+order: 1
+---
+
 Web Socket Behavior on GKE
 ==========================
 
