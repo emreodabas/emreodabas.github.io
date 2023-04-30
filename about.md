@@ -9,7 +9,7 @@ Software Developer & Architect
 
 As a 10+ year experienced Software Engineer, enthusiastic technical professional with a complete understanding of the entire software development life-cycle. Highly trained in back-end development and cloud-native tech and known for having talents in Software Architecture, Kubernetes (CKA Certified), and DevOps.
 
-Married and have a lovely daughter
+Married and have two lovely daughters
 
 
 
